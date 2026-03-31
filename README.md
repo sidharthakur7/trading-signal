@@ -13,4 +13,4 @@ The project calculates *rolling mean* and *standard deviation, computes the **Z-
 ## How to Run
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/sidharthakur7/project2-trading-signals.git
+   git clone https://github.com/sidharthakur7/python-trading-signals.git
